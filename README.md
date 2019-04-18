@@ -1,6 +1,6 @@
-# urun-islemleri
+# Urun Kontrol
 
-> A Vue.js project
+> Vue.js kullanılarak ürün otomasyonu yazılmıştır. Firebase ile desteklenmiştir.
 
 ## Build Setup
 
